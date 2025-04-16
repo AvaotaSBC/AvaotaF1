@@ -1,6 +1,6 @@
-# Baiwen Network AvaotaF1 Core Board
+# AvaotaF1 V821 Core DevKit
 
-The **AvaotaF1 V821 Development Kit** from Baiwen Network adopts a Pico-size design, compact yet powerful. It supports a standard 2.54mm pitch header interface, making it easy to connect to a breadboard for DIY experiments. Its ultra-thin double-sided design makes it the size of a 1-yuan coin, integrating all the core features of the V821, greatly enhancing development flexibility and scalability.
+The **AvaotaF1 V821 Development Kit** adopts a Pico-size design, compact yet powerful. It supports a standard 2.54mm pitch header interface, making it easy to connect to a breadboard for DIY experiments. Its ultra-thin double-sided design makes it the size of a 1-yuan coin, integrating all the core features of the V821, greatly enhancing development flexibility and scalability.
 
 This development kit boasts several powerful features:
 
