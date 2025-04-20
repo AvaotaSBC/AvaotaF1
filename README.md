@@ -7,7 +7,8 @@ This development kit boasts several powerful features:
 - **Onboard MIPI CSI camera interface** for high-definition image capture.
 - **MIC pickup function** for easy audio acquisition.
 - **SPI NOR FLASH (32MB)** for ample storage space.
-- **Wi-Fi ceramic antenna** supporting wireless connectivity and network expansion.
+- **Wi-Fi ceramic antenna** supporting wireless connectivity and network![AvaotaF1_PINOUT](https://github.com/user-attachments/assets/74b79f99-2a9d-4ae3-be6e-a4f757f0dd2f)
+ expansion.
 - **TF card socket** for easy data storage and expansion.
 - **Burn button** for simplified firmware burning.
 - Abundant **GPIO resources** that can be flexibly configured to control external hardware devices.
@@ -44,3 +45,6 @@ The AvaotaF1 V821 development kit integrates a wealth of features, is easy to op
 ## Development Board Interface Function Diagram
 
 ![Interface Diagram](Assets/post/README/详情-03-17447077800632-7524227a1712becc224af4f255cd8ea5.jpg)
+
+## Pinout
+![AvaotaF1_PINOUT](https://github.com/user-attachments/assets/eeb144f8-8c78-49c5-b7ba-8fae554e0f53)
