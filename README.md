@@ -7,7 +7,7 @@ This development kit boasts several powerful features:
 - **Onboard MIPI CSI camera interface** for high-definition image capture.
 - **MIC pickup function** for easy audio acquisition.
 - **SPI NOR FLASH (32MB)** for ample storage space.
-- **Wi-Fi ceramic antenna** supporting wireless connectivity and network![AvaotaF1_PINOUT](https://github.com/user-attachments/assets/74b79f99-2a9d-4ae3-be6e-a4f757f0dd2f)
+- **Wi-Fi ceramic antenna** supporting wireless connectivity and network
  expansion.
 - **TF card socket** for easy data storage and expansion.
 - **Burn button** for simplified firmware burning.
