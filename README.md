@@ -47,4 +47,4 @@ The AvaotaF1 V821 development kit integrates a wealth of features, is easy to op
 ![Interface Diagram](Assets/post/README/详情-03-17447077800632-7524227a1712becc224af4f255cd8ea5.jpg)
 
 ## Pinout
-![AvaotaF1_PINOUT](https://github.com/user-attachments/assets/eeb144f8-8c78-49c5-b7ba-8fae554e0f53)
+![AvaotaF1_PINOUT](Assets/post/README/pinout.svg)
