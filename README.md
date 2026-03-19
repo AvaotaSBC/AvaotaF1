@@ -6,7 +6,7 @@ This development kit boasts several powerful features:
 
 - **Onboard MIPI CSI camera interface** for high-definition image capture.
 - **MIC pickup function** for easy audio acquisition.
-- **SPI NOR FLASH (32MB)** for ample storage space.
+- **SPI NOR FLASH (32MB)** for sample storage space.
 - **Wi-Fi ceramic antenna** supporting wireless connectivity and network
  expansion.
 - **TF card socket** for easy data storage and expansion.
