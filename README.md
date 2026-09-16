@@ -48,3 +48,9 @@ The AvaotaF1 V821 development kit integrates a wealth of features, is easy to op
 
 ## Pinout
 ![AvaotaF1_PINOUT](Assets/post/README/pinout.svg)
+
+## Firmware
+
+The [Firmware directory](Firmware/README.md) provides a RustSBI boot package,
+xfel/rfel flashing instructions and measured performance against factory OpenSBI.
+See the firmware README for conditions and full results.
